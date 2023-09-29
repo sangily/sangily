@@ -7,8 +7,8 @@
 </div>
 
 ### 🏃 Work Experience
-* Server Developer (Intern) / Daangn Market (2021.11.08 - 2022.02.07)
-* DRAM designer / SK Hynix (2022.07.04 - )
+* account Server Developer (Intern.) / Daangn Market (2021.11.08 - 2022.02.07)
+* automated DRAM Verification Platform & Data Processing / SK Hynix (2022.07.04 - )
 
 ### 💻 Develop Experience
 * C Programmer on Mac / 42seoul (2021.03 - 2021.07)
