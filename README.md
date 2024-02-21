@@ -11,7 +11,7 @@
 * automated DRAM Verification Platform Developer & Data Engineer / SK Hynix (2022.07.04 - )
 
 ### 💻 Develop Experience
-* C Programmer on Mac / 42seoul (2021.03 - 2021.07)
+* C Programmer on Linux / 42seoul (2021.03 - 2021.07)
 * Android Developer / SSAFY (2021.07 - 2021.10)
 
 ### :octocat: My Github Stats (Old Account / Current Account)
