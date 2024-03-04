@@ -19,3 +19,4 @@
 [![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangily-zz&layout=compact&title_color=b07219)](https://github.com/sangily-zz)  
 [![Github stats](https://github-readme-stats.vercel.app/api?username=sangily&show_icons=true&icon_color=036635&title_color=036635&hide=stars&text_color=5F5F5F)](https://github.com/sangily)
 [![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangily&layout=compact&title_color=b07219)](https://github.com/sangily)  
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sangily)
