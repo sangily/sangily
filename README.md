@@ -7,8 +7,8 @@
 </div>
 
 ### 🏃 Work Experience
-* account Server Developer (Intern.) / Daangn Market (2021.11.08 - 2022.02.07)
-* automated DRAM Verification Platform Developer & Data Engineer / SK Hynix (2022.07.04 - )
+* auth Server Developer (Intern.) / Daangn Market (2021.11.08 - 2022.02.07)
+* SW Developer / SK Hynix (2022.07.04 - ) / automated DRAM Verification Platform & Data Engineering [(DAM)](https://news.skhynix.co.kr/post/skhynix-quality-design-new-deal)
 
 ### 💻 Develop Experience
 * C Programmer on Linux / 42seoul (2021.03 - 2021.07)
