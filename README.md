@@ -8,7 +8,8 @@
 
 ### 🏃 Work Experience
 * auth Server Developer (Intern.) / Daangn Market (2021.11.08 - 2022.02.07)
-* SW Developer / SK Hynix (2022.07.04 - ) / automated DRAM Verification Platform & Data Engineering [(DAM)](https://news.skhynix.co.kr/post/skhynix-quality-design-new-deal)
+* SW Developer & Data Engineering / SK Hynix (2022.07.04 - 2024.07.29) / automated DRAM Verification Platform [(DAM)](https://news.skhynix.co.kr/post/skhynix-quality-design-new-deal)
+* Backend Server Developer / SAMSUNG Electronics (2024.08.01 - ) / SmartThings Pro
 
 ### 💻 Develop Experience
 * C Programmer on Linux / 42seoul (2021.03 - 2021.07)
